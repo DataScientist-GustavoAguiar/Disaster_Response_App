@@ -128,9 +128,7 @@ This will use cleaned data to train the model, improve the model with grid searc
 
 _classifier.pkl_ already exists but the above command will still run and replace the file will same information.
 
-It took me around **4 minutes** to train the classifier with grid search.
-
-When the models is saved, it will look something like this.
+It took me around **1 hour** to train the classifier with grid search.
 
 <a id='starting'></a>
 
@@ -168,7 +166,7 @@ Some information about training data set as seen on the main page of the web app
 
 ![dist](visuals/Image4.png)
 
-As we can see the data is highly imbalanced. Though the accuracy metric is [high](#acc) (you will see the exact value after the model is trained by grid search, it is ~0.94), it has a poor value for recall (~0.6). So, take appropriate measures when using this model for decision-making process at a larger scale or in a production environment.
+As we can see the data is highly imbalanced. Though the accuracy metric is [high](#acc) (you will see the exact value after the model is trained by grid search, it is ~0.86), it has a ok value for balanced accuracy (~0.77). So, take appropriate measures when using this model for decision-making process at a larger scale or in a production environment.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 

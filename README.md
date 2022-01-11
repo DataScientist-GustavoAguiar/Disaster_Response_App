@@ -191,6 +191,10 @@ As we can see the data is highly imbalanced. Though the accuracy metric is [high
 ├── visuals-------------------------------# PLOTS FOR USE IN README AND THE WEB APP
 ├── models
 │   └── train_classifier.py-----------# PERFORMS CLASSIFICATION TASK
+│   └── classifier.pkl-----------# SAVED ML MODEL
+│   └── length_transformer.py-----------# PART OF THE ML PIPELINE
+
+length_transformer.py
 
 </pre>
 

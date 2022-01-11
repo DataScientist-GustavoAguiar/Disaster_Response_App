@@ -166,7 +166,7 @@ Some information about training data set as seen on the main page of the web app
 
 ![dist](visuals/Image4.png)
 
-As we can see the data is highly imbalanced. Though the accuracy metric is [high](#acc) (you will see the exact value after the model is trained by grid search, it is ~0.86), it has a ok value for balanced accuracy (~0.77). So, take appropriate measures when using this model for decision-making process at a larger scale or in a production environment.
+As we can see the data is highly imbalanced. Though the accuracy metric is [high] (you will see the exact value after the model is trained by grid search, it is ~0.86), it has a ok value for balanced accuracy (~0.77). So, take appropriate measures when using this model for decision-making process at a larger scale or in a production environment.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 

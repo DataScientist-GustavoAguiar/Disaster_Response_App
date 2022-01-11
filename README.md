@@ -15,8 +15,8 @@ In this project, I'm analyzing disaster data from Figure Eight using my Data Sci
 
 ## Table of Contents
 
-- [Project Overview](#itroduction)
-- [Project Components](#structure)
+- [Introduction](#iNtroduction)
+- [Project Structure](#structure)
   - [ETL Pipeline](#etl_pipeline)
   - [ML Pipeline](#ml_pipeline)
   - [Flask Web App](#flask)

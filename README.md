@@ -3,9 +3,9 @@
 In this project, I'm analyzing disaster data from Figure Eight using my Data Scientist skills. The Extract, Transform, and Load (ETL) process, Natural Language Processing (NLP), and Machine Learning Pipeline are used to build the classifier model for disaster messages. The project also includes a web app that allows an emergency worker to enter a new message and receive classification results in a variety of categories. It can be useful in determining which messages require immediate attention in the event of a disaster.
 
 <p align="left">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/How-Did-Netflix-Grow-Its-Catalog-?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/Disaster_Response_App?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DataScientist-GustavoAguiar/How-Did-Netflix-Grow-Its-Catalog-">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DataScientist-GustavoAguiar/Disaster_Response_App">
 
   <a href="https://rocketseat.com.br">
     <img alt="made by Gustavo Aguiar" src="https://img.shields.io/badge/made%20by-Gustavo-%237519C1">
@@ -217,6 +217,8 @@ As we can see the data is highly imbalanced. Though the accuracy metric is [high
 This project uses **Python 3.9.7** and the necessary libraries are mentioned in _requirements.txt_.
 The standard libraries which are not mentioned in _requirements.txt_ are _collections_, _json_, _operator_, _pickle_, _pprint_, _re_, _sys_, _time_ and _warnings_.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <a id='author'></a>
 
 ## 7. Author
@@ -228,8 +230,6 @@ Production Engineer | Master's Student in Production Engineering and Computation
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gjmaguiar/?locale=en_US)](https://www.linkedin.com/in/gjmaguiar/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-gustavoaguiar@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoaguiar@id.uff.br)](mailto:gustavoaguiar@id.uff.br)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <a id='credits'></a>
 
 ## 8. Credits and Acknowledgements
@@ -237,6 +237,8 @@ Production Engineer | Master's Student in Production Engineering and Computation
 Thanks <a href="https://www.udacity.com" target="_blank">Udacity</a> for letting me use their logo as favicon for this web app.
 
 I want to express my gratitude to Josh Bernhard, Robert Chang and the other Udacity reviewers for their genuine efforts and time. Their invaluable advice and feedback immensely helped me in completing this project.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <a id='license'></a>
 

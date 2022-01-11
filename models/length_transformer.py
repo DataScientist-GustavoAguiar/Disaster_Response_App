@@ -2,12 +2,12 @@ import numpy as np
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
 
-# Build a custom transformer which will extract the starting verb of a sentence
+# Build a custom transformer which will extract the some statistics from text
 class LengthTransformer(BaseEstimator, TransformerMixin):
     """
-    Starting Verb Extractor class
+    Length Transformer class
     
-    This class extract the starting verb of a sentence,
+    This class extract some statistics from strings,
     creating a new feature for the ML classifier
     """
     def __init__(self):

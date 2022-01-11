@@ -194,8 +194,6 @@ As we can see the data is highly imbalanced. Though the accuracy metric is [high
 │   └── classifier.pkl-----------# SAVED ML MODEL
 │   └── length_transformer.py-----------# PART OF THE ML PIPELINE
 
-length_transformer.py
-
 </pre>
 
 <a id='sw'></a>

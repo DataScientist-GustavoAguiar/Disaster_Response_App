@@ -5,7 +5,7 @@ In this project, I'm analyzing disaster data from Figure Eight using my Data Sci
 <p align="left">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/Disaster_Response_App?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DataScientist-GustavoAguiar/Disaster_Response_App">
+  <img alt="Repository size" src="https://github-size-badge.herokuapp.com/DataScientist-GustavoAguiar/Disaster_Response_App.svg">
 
   <a href="https://rocketseat.com.br">
     <img alt="made by Gustavo Aguiar" src="https://img.shields.io/badge/made%20by-Gustavo-%237519C1">
@@ -80,7 +80,7 @@ File _models/train_classifier.py_ contains machine learning pipeline that:
 
 <a id='eg'></a>
 
-Running [this command](#com) **from app directory** will start the web app where users can enter their query, i.e., a request message sent during a natural disaster, e.g. _"Please, we need tents and water. We are in Silo, Thank you!"_.
+Running [this command](#com) **from app directory** will start the web app where users can enter their query, i.e., a request message sent during a natural disaster, e.g. _"How can we get water and food in Rio de Janeiro? We have people in many differents needs, and also for medicine."_.
 
 **Classification Example - Input Message**
 

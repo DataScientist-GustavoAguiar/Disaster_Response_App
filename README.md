@@ -5,7 +5,7 @@ In this project, I'm analyzing disaster data from Figure Eight using my Data Sci
 <p align="left">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/Disaster_Response_App?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DataScientist-GustavoAguiar/Disaster_Response_App?">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DataScientist-GustavoAguiar/Disaster_Response_App">
 
   <a href="https://rocketseat.com.br">
     <img alt="made by Gustavo Aguiar" src="https://img.shields.io/badge/made%20by-Gustavo-%237519C1">

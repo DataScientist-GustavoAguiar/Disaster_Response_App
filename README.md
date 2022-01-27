@@ -211,7 +211,7 @@ The standard libraries which are not mentioned in _requirements.txt_ are _collec
 
 Gustavo Aguiar 👋🏽 Get in Touch!
 
-Production Engineer | Master's Student in Production Engineering and Computational System | Data Analyst and Physical Simulation Engineering
+Data Scientist | Master's Student in Production Engineering and Computational System
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gjmaguiar/?locale=en_US)](https://www.linkedin.com/in/gjmaguiar/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-gustavoaguiar@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoaguiar@id.uff.br)](mailto:gustavoaguiar@id.uff.br)
